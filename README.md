@@ -8,9 +8,6 @@ Supply Chain Forecasting
 
 Summary:
 
-Data - We searched the internet for data and got some practice data from GitHub, on which we applied our theorems for forecasting the sales of a company.
-Link: https://github.com/akshitvjain/product-sales-forecasting/tree/master/data 
-
 Techstacks - language used: Python
 Pandas and Matplotlib: DataCleaning, Exploratory Data Analysis 
 Sklearn, DecisionTreeRegressor:  for forecasting 
